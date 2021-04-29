@@ -6,7 +6,7 @@
 输出：2
 解释：与 target 最接近的和是 2 (-1 + 2 + 1 = 2) 。
 
-'''Python'''
+'''
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         '''
